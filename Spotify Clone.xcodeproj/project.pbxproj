@@ -29,8 +29,7 @@
 		2D4EECC5273FA1AA00547507 /* AudioTrack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D4EECC4273FA1AA00547507 /* AudioTrack.swift */; };
 		2D4EECC7273FA1B500547507 /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D4EECC6273FA1B500547507 /* Artist.swift */; };
 		2D4EECC9273FA1C300547507 /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D4EECC8273FA1C300547507 /* UserProfile.swift */; };
-		2DC16D2A274361DB00CD8CD2 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DC16D29274361DB00CD8CD2 /* Constants.swift */; };
-		2DC16D2C2743633000CD8CD2 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 2DC16D2B2743633000CD8CD2 /* .gitignore */; };
+		2DC16D2E2743649900CD8CD2 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DC16D2D2743649900CD8CD2 /* Constants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -58,8 +57,7 @@
 		2D4EECC4273FA1AA00547507 /* AudioTrack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioTrack.swift; sourceTree = "<group>"; };
 		2D4EECC6273FA1B500547507 /* Artist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artist.swift; sourceTree = "<group>"; };
 		2D4EECC8273FA1C300547507 /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
-		2DC16D29274361DB00CD8CD2 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
-		2DC16D2B2743633000CD8CD2 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		2DC16D2D2743649900CD8CD2 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,7 +97,6 @@
 				2D4EECA0273F61E600547507 /* View */,
 				2D4EEC9F273F61DC00547507 /* Controller */,
 				2D4EEC99273F60F700547507 /* Info.plist */,
-				2DC16D2B2743633000CD8CD2 /* .gitignore */,
 			);
 			path = Spotify;
 			sourceTree = "<group>";
@@ -128,7 +125,7 @@
 				2D4EECC4273FA1AA00547507 /* AudioTrack.swift */,
 				2D4EECC6273FA1B500547507 /* Artist.swift */,
 				2D4EECC8273FA1C300547507 /* UserProfile.swift */,
-				2DC16D29274361DB00CD8CD2 /* Constants.swift */,
+				2DC16D2D2743649900CD8CD2 /* Constants.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -244,7 +241,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				2D4EEC98273F60F700547507 /* LaunchScreen.storyboard in Resources */,
-				2DC16D2C2743633000CD8CD2 /* .gitignore in Resources */,
 				2D4EEC95273F60F700547507 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -267,7 +263,7 @@
 				2D4EECC5273FA1AA00547507 /* AudioTrack.swift in Sources */,
 				2D4EEC90273F60F500547507 /* HomeViewController.swift in Sources */,
 				2D4EECAE273F691700547507 /* AuthViewController.swift in Sources */,
-				2DC16D2A274361DB00CD8CD2 /* Constants.swift in Sources */,
+				2DC16D2E2743649900CD8CD2 /* Constants.swift in Sources */,
 				2D4EEC8C273F60F500547507 /* AppDelegate.swift in Sources */,
 				2D4EECC9273FA1C300547507 /* UserProfile.swift in Sources */,
 				2D4EECAB273F687600547507 /* LibraryViewController.swift in Sources */,
